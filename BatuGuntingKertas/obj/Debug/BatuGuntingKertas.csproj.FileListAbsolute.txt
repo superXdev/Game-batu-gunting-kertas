@@ -1,0 +1,14 @@
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\bin\Debug\BatuGuntingKertas.exe
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\bin\Debug\BatuGuntingKertas.pdb
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\bin\Debug\MetroFramework.dll
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.csprojResolveAssemblyReference.cache
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.Form1.resources
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.Properties.Resources.resources
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.csproj.GenerateResource.Cache
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.exe
+C:\Users\gg\documents\visual studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.pdb
+C:\Users\gg\Documents\Visual Studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\bin\Debug\MetroFramework.Design.dll
+C:\Users\gg\Documents\Visual Studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gg\Documents\Visual Studio 2012\Projects\BatuGuntingKertas\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.GameResources.resources
+C:\Users\gg\Documents\Visual Studio 2012\Projects\BatuGuntingKertas2\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.exe
+C:\Users\gg\Documents\Visual Studio 2012\Projects\BatuGuntingKertas2\BatuGuntingKertas\obj\Debug\BatuGuntingKertas.pdb
